@@ -1,4 +1,3 @@
-import pygal
 def simple_search(search_list, item):
     low = 0
     high = len(search_list) - 1
